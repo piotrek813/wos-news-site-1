@@ -4,7 +4,7 @@ excerpt: "Bohaterscy nastolatkowie dowożą zakupy seniorom"
 publishDate: "2022-03-15T12:00:00.000Z"
 image: "https://plus.unsplash.com/premium_photo-1664300347812-00e2b09646c5"
 category: "lokalnie"
-author: "anna-nowakowska"
+author: "marta-wisniewska"
 tags: [seniorzy, covid-19]
 ---
 Losem seniorów objętych kwarantanną postanowli zająć się uczniowie lokalnej szkoły. Nasi bohaterowie - bo tak ich nazywają potrzebujący - reprezentują wzorową postawę, godną naśladowania.

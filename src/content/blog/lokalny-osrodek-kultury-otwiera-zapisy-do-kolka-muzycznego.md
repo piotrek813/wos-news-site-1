@@ -3,7 +3,7 @@ title: "Lokalny ośrodek kultury otwiera zapisy do Kółka Muzycznego"
 excerpt: "Po sukcesie Kółka Teatralnego, nasz lokalny ośrodek kultury nie zwalnia tempa i ogłasza nabór do nowo powstałego Kółka Muzycznego."
 publishDate: "2021-03-05T13:53:00.000Z"
 image: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4"
-category: "lokalnie"
+category: "lifestyle"
 author: "anna-nowakowska"
 tags: [muzyka, kultura, ośrodek kultury]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Nowe place zabaw dla dzieci w parku miejskim"
 excerpt: "Park miejski został wzbogacony o nowe place zabaw dla dzieci. Zostały one ufundowane przez lokalną szkołę, która postanowiła wesprzeć rozwój przestrzeni publicznych dla dzieci."
-publishDate: "2023-04-06T10:00:00.000Z"
+publishDate: "2023-02-06T10:00:00.000Z"
 image: "https://images.unsplash.com/photo-1596997000103-e597b3ca50df"
 category: "lokalnie"
 author: "marta-wisniewska"

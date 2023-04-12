@@ -1,7 +1,7 @@
 ---
 title: "Otwarcie nowego sklepu z produktami lokalnymi w centrum miasta"
 excerpt: "Właściciele małych biznesów z radością witają nowy sklep oferujący produkty lokalne w centrum miasta, zachęcając mieszkańców do wsparcia lokalnych producentów i zachowania zrównoważonego stylu życia."
-publishDate: "2023-04-06T09:00:00.000Z"
+publishDate: "2022-09-06T09:00:00.000Z"
 image: "https://images.unsplash.com/photo-1571204829887-3b8d69e4094d"
 category: "lokalnie"
 author: "marta-wisniewska"
