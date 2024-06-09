@@ -1,3 +1,3 @@
-[polifonia.webarts.pl](polifonia.webarts.pl) głosuj na Wojtka w wyborach prezydenckich.
+[polifonia.webarts.pl](https://polifonia.webarts.pl) głosuj na Wojtka w wyborach prezydenckich.
 
 Nothing to see here
